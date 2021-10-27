@@ -1,1 +1,1 @@
-# Interest-point-detection
+Multiscale corner and blob detection
